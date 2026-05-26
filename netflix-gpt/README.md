@@ -69,12 +69,11 @@ Frontend runs on `http://localhost:5173` and backend runs on `http://localhost:5
 - This project currently uses TMDB requests directly from the frontend.
 - Keep API keys and secrets in local env files only.
 
-🎨 Fullstack Netflix Clone with AI Movie Recommendations (MERN Stack 2025)
+##
+🎨 Fullstack Netflix Clone with AI Movie Recommendations
 This is a fully functional, fullstack Netflix Clone built with the MERN stack — featuring AI-powered movie recommendations powered by Gemini AI, complete authentication, and a clean, responsive UI using real data from the TMDB API.
 
 ✅ This project is complete — from frontend to backend to AI integration and deployment. It’s built to teach and showcase real-world skills.
-
-📺 Watch the Full YouTube Tutorial Series https://youtu.be/Y5YVfD1dVkk?si=YeXh48ULSnwy69HN
 
 📆 Live Demo: https://aiflix-1.onrender.com/
 
